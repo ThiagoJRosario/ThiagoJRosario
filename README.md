@@ -1,4 +1,15 @@
-### Hey Everyone ✌, I'm Thiago Rosario
+### 👋 Hi, I'm Thiago Jorge do Rosario, a passionate **Data Analyst** skilled in leveraging **Python**, **SQL**, and **Power BI** to transform data into actionable insights. With over 10 years of experience, I specialize in **data visualization**, **exploratory data analysis**, and creating **semantic models** that drive business decisions.
+
+🔧 Skills:
+- Data Visualization (Power BI, Tableau, Matplotlib, Seaborn)
+- Programming Languages (Python, SQL)
+- Machine Learning (Scikit-learn, TensorFlow)
+- Databases (PostgreSQL, MongoDB, MySQL)
+- Dashboards and Data Storytelling
+
+📈 Currently working as a Data Analyst at Accenture, analyzing global data to optimize processes and improve user experience. Check out my repositories for projects on **data analysis**, **machine learning**, and **dashboard creation**. 
+
+📫 Feel free to connect and collaborate on data-driven projects!
 ##
 
 <div>
@@ -29,18 +40,6 @@
  
 </div>
 
-👋 Hi, I'm Thiago Jorge do Rosario, a passionate **Data Analyst** skilled in leveraging **Python**, **SQL**, and **Power BI** to transform data into actionable insights. With over 10 years of experience, I specialize in **data visualization**, **exploratory data analysis**, and creating **semantic models** that drive business decisions.
-
-🔧 Skills:
-- Data Visualization (Power BI, Tableau, Matplotlib, Seaborn)
-- Programming Languages (Python, SQL)
-- Machine Learning (Scikit-learn, TensorFlow)
-- Databases (PostgreSQL, MongoDB, MySQL)
-- Dashboards and Data Storytelling
-
-📈 Currently working as a Data Analyst at Accenture, analyzing global data to optimize processes and improve user experience. Check out my repositories for projects on **data analysis**, **machine learning**, and **dashboard creation**. 
-
-📫 Feel free to connect and collaborate on data-driven projects!
   
 ![](https://github-profile-trophy.vercel.app/?username=ThiagoJRosario&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
